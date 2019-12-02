@@ -1,0 +1,2 @@
+# allPurpose
+For all
